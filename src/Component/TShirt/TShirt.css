@@ -1,0 +1,9 @@
+.carts{
+    border: 1px solid palegreen;
+    padding: 15px;
+    border-radius: 10px;
+}
+.carts img{
+    width: 300px;
+    height: 350px;
+}
